@@ -3,8 +3,6 @@
 </div>
 
 <div align="center">
-
-<h1>🎭 Novel OS</h1>
 <h3>A Production-Grade Multi-Agent Fiction Writing Framework</h3>
 
 <p><em>Write novels like a professional author — with an entire editorial team at your command.</em></p>

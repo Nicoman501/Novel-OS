@@ -1,0 +1,7 @@
+<launch>
+      <include file="/home/v/catkin_ws/src/ackermann_vehicle/ackermann_vehicle_gazebo/launch/ackermann_vehicle_noetic.launch" />
+      <node pkg="Autonomous_Systems_Project_Team_3" name="OLR_Node" type="Autonomous_Systems_MS2_OLR_Team_3.py"/>
+      <node pkg="rqt_graph" name="rqt_graph" type="rqt_graph"/>
+   
+</launch>
+
